@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni41cicegoog/mtulliiciceroni41cicegoog_0004.png"; bbox 0 0 702 1113; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 489 183 512 238">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 489 183 512 238">
+     <span class='ocr_line' id='line_1_1' title="bbox 489 183 512 238; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 489 183 512 238; x_wconf 46' lang='grc' dir='ltr'><em>(δὴ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 99 248 597 312">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 99 246 597 312">
+     <span class='ocr_line' id='line_1_2' title="bbox 99 248 558 296; baseline -0.007 -22"><span class='ocrx_word' id='word_1_2' title='bbox 99 267 214 296; x_wconf 58' lang='lat'>5</span> <span class='ocrx_word' id='word_1_3' title='bbox 392 252 397 258; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_4' title='bbox 500 248 558 273; x_wconf 48' lang='grc' dir='ltr'><em>γλ]</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 310 278 597 312; baseline -0.01 -4.172"><span class='ocrx_word' id='word_1_5' title='bbox 310 287 327 290; x_wconf 68' lang='grc'>”</span> <span class='ocrx_word' id='word_1_6' title='bbox 440 299 459 312; x_wconf 37' lang='grc' dir='ltr'><em>ι,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 497 278 597 308; x_wconf 57' lang='grc' dir='ltr'><em>κό5ἔ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 150 497 585 565">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 150 497 585 577">
+     <span class='ocr_line' id='line_1_4' title="bbox 150 497 585 565; baseline -0.014 -13"><span class='ocrx_word' id='word_1_8' title='bbox 150 549 152 552; x_wconf 81' lang='grc'>,</span> <span class='ocrx_word' id='word_1_9' title='bbox 198 497 363 565; x_wconf 36' lang='grc' dir='ltr'><em>ΞΜρ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 376 503 585 558; x_wconf 40' lang='grc' dir='ltr'><em>Μκρ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
